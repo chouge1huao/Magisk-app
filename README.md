@@ -1,6 +1,6 @@
 # 提供Magisk各版本app
 
-##原版         
+## 原版         
 文件夹名命名为Magisk     
 稳定(文件夹名命名为beta)      
 Canary文件夹同名
